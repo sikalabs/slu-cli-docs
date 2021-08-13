@@ -1,1 +1,1 @@
-[slut cli docs](./slut.md)
+[slu cli docs](./slu.md)
