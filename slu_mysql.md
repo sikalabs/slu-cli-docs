@@ -20,7 +20,7 @@ MySQL Utils
 
 ### SEE ALSO
 
-* [slu](slu.md)	 - SikaLabs Utils, v0.11.0-dev-4
+* [slu](slu.md)	 - SikaLabs Utils, v0.11.0-dev-5
 * [slu mysql create](slu_mysql_create.md)	 - Create MySQL database
 * [slu mysql drop](slu_mysql_drop.md)	 - Drop MySQL database
 * [slu mysql list](slu_mysql_list.md)	 - list Mysql databases

@@ -23,7 +23,7 @@ See each sub-command's help for details on how to use the generated script.
 
 ### SEE ALSO
 
-* [slu](slu.md)	 - SikaLabs Utils, v0.11.0-dev-4
+* [slu](slu.md)	 - SikaLabs Utils, v0.11.0-dev-5
 * [slu completion bash](slu_completion_bash.md)	 - generate the autocompletion script for bash
 * [slu completion fish](slu_completion_fish.md)	 - generate the autocompletion script for fish
 * [slu completion powershell](slu_completion_powershell.md)	 - generate the autocompletion script for powershell

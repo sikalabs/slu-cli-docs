@@ -16,7 +16,7 @@ Expand environment variables in files and strings
 
 ### SEE ALSO
 
-* [slu](slu.md)	 - SikaLabs Utils, v0.11.0-dev-4
+* [slu](slu.md)	 - SikaLabs Utils, v0.11.0-dev-5
 * [slu expand file](slu_expand_file.md)	 - Expand environment variables in file
 * [slu expand string](slu_expand_string.md)	 - Expand environment variables in string
 
