@@ -11,6 +11,7 @@ slu go-code version-bump [flags]
 ```
   -h, --help             help for version-bump
   -n, --no-commit        Don't create commit with version bump
+  -t, --tag              Create also git tag
   -v, --version string   New version
 ```
 

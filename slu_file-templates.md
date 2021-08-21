@@ -16,7 +16,7 @@ Create common files from templates
 
 ### SEE ALSO
 
-* [slu](slu.md)	 - SikaLabs Utils, v0.11.0-dev-5
+* [slu](slu.md)	 - SikaLabs Utils, v0.11.0
 * [slu file-templates editorconfig](slu_file-templates_editorconfig.md)	 - Create basic editorconfig
 * [slu file-templates gitignore](slu_file-templates_gitignore.md)	 - Create basic gitignore
 
