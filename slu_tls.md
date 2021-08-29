@@ -16,7 +16,7 @@ TLS Utils
 
 ### SEE ALSO
 
-* [slu](slu.md)	 - SikaLabs Utils, v0.13.0-dev-3
+* [slu](slu.md)	 - SikaLabs Utils, v0.13.0
 * [slu tls parse](slu_tls_parse.md)	 - Parse TLS Certificate data from server (connection)
 * [slu tls parse-file](slu_tls_parse-file.md)	 - Parse TLS Certificate data from file (cert, key)
 * [slu tls parse-k8s-secret](slu_tls_parse-k8s-secret.md)	 - Parse TLS Certificate from Kubernetes Secret

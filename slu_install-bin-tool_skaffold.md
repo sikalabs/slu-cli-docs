@@ -1,15 +1,15 @@
-## slu install-bin-tool vault
+## slu install-bin-tool skaffold
 
-Install vault binary
+Install skaffold binary
 
 ```
-slu install-bin-tool vault [flags]
+slu install-bin-tool skaffold [flags]
 ```
 
 ### Options
 
 ```
-  -h, --help   help for vault
+  -h, --help   help for skaffold
 ```
 
 ### Options inherited from parent commands

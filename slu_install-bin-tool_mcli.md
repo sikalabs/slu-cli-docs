@@ -1,15 +1,15 @@
-## slu install-bin-tool vault
+## slu install-bin-tool mcli
 
-Install vault binary
+Install mcli binary
 
 ```
-slu install-bin-tool vault [flags]
+slu install-bin-tool mcli [flags]
 ```
 
 ### Options
 
 ```
-  -h, --help   help for vault
+  -h, --help   help for mcli
 ```
 
 ### Options inherited from parent commands

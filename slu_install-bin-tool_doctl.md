@@ -1,15 +1,15 @@
-## slu install-bin-tool vault
+## slu install-bin-tool doctl
 
-Install vault binary
+Install doctl binary
 
 ```
-slu install-bin-tool vault [flags]
+slu install-bin-tool doctl [flags]
 ```
 
 ### Options
 
 ```
-  -h, --help   help for vault
+  -h, --help   help for doctl
 ```
 
 ### Options inherited from parent commands

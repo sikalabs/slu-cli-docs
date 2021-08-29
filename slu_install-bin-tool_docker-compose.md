@@ -1,15 +1,15 @@
-## slu install-bin-tool vault
+## slu install-bin-tool docker-compose
 
-Install vault binary
+Install docker-compose binary
 
 ```
-slu install-bin-tool vault [flags]
+slu install-bin-tool docker-compose [flags]
 ```
 
 ### Options
 
 ```
-  -h, --help   help for vault
+  -h, --help   help for docker-compose
 ```
 
 ### Options inherited from parent commands

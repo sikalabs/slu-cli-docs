@@ -5,8 +5,10 @@ Install preconfigured binary tool like Terraform, Vault, ...
 ### Options
 
 ```
+  -a, --arch string      Architecture (default "arm64")
   -d, --bin-dir string   Binary dir (default "/usr/local/bin")
   -h, --help             help for install-bin-tool
+  -o, --os string        OS (default "darwin")
 ```
 
 ### Options inherited from parent commands
@@ -17,7 +19,14 @@ Install preconfigured binary tool like Terraform, Vault, ...
 
 ### SEE ALSO
 
-* [slu](slu.md)	 - SikaLabs Utils, v0.13.0-dev-3
+* [slu](slu.md)	 - SikaLabs Utils, v0.13.0
+* [slu install-bin-tool docker](slu_install-bin-tool_docker.md)	 - Install docker binary
+* [slu install-bin-tool docker-compose](slu_install-bin-tool_docker-compose.md)	 - Install docker-compose binary
+* [slu install-bin-tool doctl](slu_install-bin-tool_doctl.md)	 - Install doctl binary
+* [slu install-bin-tool helm](slu_install-bin-tool_helm.md)	 - Install helm binary
+* [slu install-bin-tool kubectl](slu_install-bin-tool_kubectl.md)	 - Install kubectl binary
+* [slu install-bin-tool mcli](slu_install-bin-tool_mcli.md)	 - Install mcli binary
+* [slu install-bin-tool skaffold](slu_install-bin-tool_skaffold.md)	 - Install skaffold binary
 * [slu install-bin-tool terraform](slu_install-bin-tool_terraform.md)	 - Install terraform binary
 * [slu install-bin-tool vault](slu_install-bin-tool_vault.md)	 - Install vault binary
 

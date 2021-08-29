@@ -16,7 +16,7 @@ Utils for Kubernetes
 
 ### SEE ALSO
 
-* [slu](slu.md)	 - SikaLabs Utils, v0.13.0-dev-3
+* [slu](slu.md)	 - SikaLabs Utils, v0.13.0
 * [slu k8s get](slu_k8s_get.md)	 - Get data from Secret or ConfigMap
 * [slu k8s token](slu_k8s_token.md)	 - Get token for ServiceAccount
 

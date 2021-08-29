@@ -20,7 +20,7 @@ Postgres Utils
 
 ### SEE ALSO
 
-* [slu](slu.md)	 - SikaLabs Utils, v0.13.0-dev-3
+* [slu](slu.md)	 - SikaLabs Utils, v0.13.0
 * [slu postgres create](slu_postgres_create.md)	 - Create Postgres database
 * [slu postgres drop](slu_postgres_drop.md)	 - Drop Postgres database
 * [slu postgres list](slu_postgres_list.md)	 - list Postgres databases

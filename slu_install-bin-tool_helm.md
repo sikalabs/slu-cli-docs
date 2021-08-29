@@ -1,15 +1,15 @@
-## slu install-bin-tool vault
+## slu install-bin-tool helm
 
-Install vault binary
+Install helm binary
 
 ```
-slu install-bin-tool vault [flags]
+slu install-bin-tool helm [flags]
 ```
 
 ### Options
 
 ```
-  -h, --help   help for vault
+  -h, --help   help for helm
 ```
 
 ### Options inherited from parent commands

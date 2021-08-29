@@ -1,15 +1,15 @@
-## slu install-bin-tool vault
+## slu install-bin-tool docker
 
-Install vault binary
+Install docker binary
 
 ```
-slu install-bin-tool vault [flags]
+slu install-bin-tool docker [flags]
 ```
 
 ### Options
 
 ```
-  -h, --help   help for vault
+  -h, --help   help for docker
 ```
 
 ### Options inherited from parent commands

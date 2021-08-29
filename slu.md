@@ -1,6 +1,6 @@
 ## slu
 
-SikaLabs Utils, v0.13.0-dev-3
+SikaLabs Utils, v0.13.0
 
 ### Options
 

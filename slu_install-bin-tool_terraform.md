@@ -15,8 +15,10 @@ slu install-bin-tool terraform [flags]
 ### Options inherited from parent commands
 
 ```
+  -a, --arch string      Architecture (default "arm64")
   -d, --bin-dir string   Binary dir (default "/usr/local/bin")
       --json             Formatu output to JSON
+  -o, --os string        OS (default "darwin")
 ```
 
 ### SEE ALSO
