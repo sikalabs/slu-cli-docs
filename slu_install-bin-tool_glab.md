@@ -1,15 +1,15 @@
-## slu install-bin-tool terraform
+## slu install-bin-tool glab
 
-Install terraform binary
+Install glab binary
 
 ```
-slu install-bin-tool terraform [flags]
+slu install-bin-tool glab [flags]
 ```
 
 ### Options
 
 ```
-  -h, --help   help for terraform
+  -h, --help   help for glab
 ```
 
 ### Options inherited from parent commands

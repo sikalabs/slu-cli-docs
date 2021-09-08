@@ -1,15 +1,15 @@
-## slu install-bin-tool terraform
+## slu install-bin-tool install-slu
 
-Install terraform binary
+Install install-slu binary
 
 ```
-slu install-bin-tool terraform [flags]
+slu install-bin-tool install-slu [flags]
 ```
 
 ### Options
 
 ```
-  -h, --help   help for terraform
+  -h, --help   help for install-slu
 ```
 
 ### Options inherited from parent commands

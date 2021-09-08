@@ -1,15 +1,15 @@
-## slu install-bin-tool terraform
+## slu install-bin-tool statica
 
-Install terraform binary
+Install statica binary
 
 ```
-slu install-bin-tool terraform [flags]
+slu install-bin-tool statica [flags]
 ```
 
 ### Options
 
 ```
-  -h, --help   help for terraform
+  -h, --help   help for statica
 ```
 
 ### Options inherited from parent commands

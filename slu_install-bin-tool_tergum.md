@@ -1,15 +1,15 @@
-## slu install-bin-tool terraform
+## slu install-bin-tool tergum
 
-Install terraform binary
+Install tergum binary
 
 ```
-slu install-bin-tool terraform [flags]
+slu install-bin-tool tergum [flags]
 ```
 
 ### Options
 
 ```
-  -h, --help   help for terraform
+  -h, --help   help for tergum
 ```
 
 ### Options inherited from parent commands
