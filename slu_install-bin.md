@@ -15,15 +15,19 @@ Install preconfigured binary tool like Terraform, Vault, ...
 
 ### SEE ALSO
 
-* [slu](slu.md)	 - SikaLabs Utils, v0.72.0
+* [slu](slu.md)	 - SikaLabs Utils, v0.85.0-dev
 * [slu install-bin alertmanager](slu_install-bin_alertmanager.md)	 - Install alertmanager binary
+* [slu install-bin alloy](slu_install-bin_alloy.md)	 - Install alloy binary
 * [slu install-bin amtool](slu_install-bin_amtool.md)	 - Install amtool binary
 * [slu install-bin argocd-image-updater](slu_install-bin_argocd-image-updater.md)	 - Install argocd-image-updater binary
 * [slu install-bin argocd-vault-plugin](slu_install-bin_argocd-vault-plugin.md)	 - Install argocd-vault-plugin binary
 * [slu install-bin butane](slu_install-bin_butane.md)	 - Install butane binary
 * [slu install-bin caddy](slu_install-bin_caddy.md)	 - Install caddy binary
+* [slu install-bin clicksecret-cli](slu_install-bin_clicksecret-cli.md)	 - Install clicksecret-cli binary
+* [slu install-bin cloudflared](slu_install-bin_cloudflared.md)	 - Install cloudflared binary
 * [slu install-bin configboard-cli](slu_install-bin_configboard-cli.md)	 - Install configboard-cli binary
 * [slu install-bin consul](slu_install-bin_consul.md)	 - Install consul binary
+* [slu install-bin coredns](slu_install-bin_coredns.md)	 - Install coredns binary
 * [slu install-bin crane](slu_install-bin_crane.md)	 - Install crane binary
 * [slu install-bin ctop](slu_install-bin_ctop.md)	 - Install ctop binary
 * [slu install-bin docker](slu_install-bin_docker.md)	 - Install docker binary
@@ -31,8 +35,11 @@ Install preconfigured binary tool like Terraform, Vault, ...
 * [slu install-bin doctl](slu_install-bin_doctl.md)	 - Install doctl binary
 * [slu install-bin editorconfig-checker](slu_install-bin_editorconfig-checker.md)	 - Install editorconfig-checker binary
 * [slu install-bin filebeat](slu_install-bin_filebeat.md)	 - Install filebeat binary
+* [slu install-bin flog](slu_install-bin_flog.md)	 - Install flog binary
 * [slu install-bin glab](slu_install-bin_glab.md)	 - Install glab binary
 * [slu install-bin gobble](slu_install-bin_gobble.md)	 - Install gobble binary
+* [slu install-bin goexpandenv](slu_install-bin_goexpandenv.md)	 - Install goexpandenv binary
+* [slu install-bin goreleaser](slu_install-bin_goreleaser.md)	 - Install goreleaser binary
 * [slu install-bin hadolint](slu_install-bin_hadolint.md)	 - Install hadolint binary
 * [slu install-bin hello-world-server](slu_install-bin_hello-world-server.md)	 - Install hello-world-server binary
 * [slu install-bin helm](slu_install-bin_helm.md)	 - Install helm binary
@@ -46,9 +53,13 @@ Install preconfigured binary tool like Terraform, Vault, ...
 * [slu install-bin kubectx](slu_install-bin_kubectx.md)	 - Install kubectx binary
 * [slu install-bin kubelogin](slu_install-bin_kubelogin.md)	 - Install kubelogin binary
 * [slu install-bin kubens](slu_install-bin_kubens.md)	 - Install kubens binary
+* [slu install-bin kubeseal](slu_install-bin_kubeseal.md)	 - Install kubeseal binary
 * [slu install-bin lego](slu_install-bin_lego.md)	 - Install lego binary
+* [slu install-bin logcli](slu_install-bin_logcli.md)	 - Install logcli binary
+* [slu install-bin loki](slu_install-bin_loki.md)	 - Install loki binary
 * [slu install-bin mcli](slu_install-bin_mcli.md)	 - Install mcli binary
 * [slu install-bin minikube](slu_install-bin_minikube.md)	 - Install minikube binary
+* [slu install-bin mon](slu_install-bin_mon.md)	 - Install mon binary
 * [slu install-bin nerdctl](slu_install-bin_nerdctl.md)	 - Install nerdctl binary
 * [slu install-bin oauth2-proxy](slu_install-bin_oauth2-proxy.md)	 - Install oauth2-proxy binary
 * [slu install-bin oc](slu_install-bin_oc.md)	 - Install oc binary
@@ -56,11 +67,14 @@ Install preconfigured binary tool like Terraform, Vault, ...
 * [slu install-bin openshift-install-okd](slu_install-bin_openshift-install-okd.md)	 - Install openshift-install-okd binary
 * [slu install-bin packer](slu_install-bin_packer.md)	 - Install packer binary
 * [slu install-bin prometheus](slu_install-bin_prometheus.md)	 - Install prometheus binary
+* [slu install-bin promtail](slu_install-bin_promtail.md)	 - Install promtail binary
 * [slu install-bin rancher](slu_install-bin_rancher.md)	 - Install rancher binary
 * [slu install-bin reg](slu_install-bin_reg.md)	 - Install reg binary
 * [slu install-bin signpost](slu_install-bin_signpost.md)	 - Install signpost binary
 * [slu install-bin skaffold](slu_install-bin_skaffold.md)	 - Install skaffold binary
 * [slu install-bin slack-cli](slu_install-bin_slack-cli.md)	 - Install slack-cli binary
+* [slu install-bin slc](slu_install-bin_slc.md)	 - Install slc binary
+* [slu install-bin slr](slu_install-bin_slr.md)	 - Install slr binary
 * [slu install-bin slu](slu_install-bin_slu.md)	 - Install slu binary
 * [slu install-bin statica](slu_install-bin_statica.md)	 - Install statica binary
 * [slu install-bin tergum](slu_install-bin_tergum.md)	 - Install tergum binary
@@ -74,4 +88,4 @@ Install preconfigured binary tool like Terraform, Vault, ...
 * [slu install-bin viddy](slu_install-bin_viddy.md)	 - Install viddy binary
 * [slu install-bin yq](slu_install-bin_yq.md)	 - Install yq binary
 
-###### Auto generated by spf13/cobra on 26-Jan-2024
+###### Auto generated by spf13/cobra on 10-Apr-2025
