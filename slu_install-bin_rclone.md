@@ -1,15 +1,15 @@
-## slu install-bin goreleaser
+## slu install-bin rclone
 
-Install goreleaser binary
+Install rclone binary
 
 ```
-slu install-bin goreleaser [flags]
+slu install-bin rclone [flags]
 ```
 
 ### Options
 
 ```
-  -h, --help   help for goreleaser
+  -h, --help   help for rclone
 ```
 
 ### Options inherited from parent commands
